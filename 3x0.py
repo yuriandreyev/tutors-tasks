@@ -1,3 +1,5 @@
+'''this module finds all 3-digit numbers which start at 3 and ends by 0 in file.'''
+
 import re
 
 

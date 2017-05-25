@@ -1,0 +1,1 @@
+We can get 3120 to 540 time faster code if we add about 340 lines of code
